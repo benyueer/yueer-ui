@@ -1,0 +1,14 @@
+{
+  "name": "vite-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.6.2",
+    "vite": "^2.8.6"
+  }
+}
